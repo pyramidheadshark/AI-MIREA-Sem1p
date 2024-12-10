@@ -1,2 +1,10 @@
 # vscode settings
 /.vscode
+
+# compressed datasets
+/Practice_7/cifar10_test.npz
+/Practice_7/cifar10_train.npz
+/Practice_7/cifar10.h5
+/Practice_7/mnist_test.npz
+/Practice_7/mnist_train.npz
+/Practice_7/mnist.h5
